@@ -10,4 +10,62 @@ git clone https://github.com/TylorOP/HTML-CSS.git
 
 ls
 
-ls -a. (hidden file check .git)
+ls -a. (hidden file & check .git)
+
+git init (to make repositary a git repositary ..run inside the directory)
+
+git status
+
+git add all-git-command (file name)
+
+git add . (to add all changes)
+
+git commit -m "add meaningful message"
+
+git push origin main
+
+git init
+
+git remote add origin https://github.com/TylorOP/localrepo.git
+
+git remote -v (verify)
+
+git branch
+
+git branch -M main (to rename branch)
+
+git push -u origin main
+
+WorkFlow (local git)
+
+Github repo (make repository)
+
+clone (make clone in vs code or other editor )
+
+changes (make changes)
+
+add (git add)
+
+commit (give meaningful commit)
+
+push (push back to github)
+
+# Branch
+
+git branch (to check branch)
+
+git branch -M main (to rename branch)
+
+git checkout (to navigate from ine to other)
+
+git checkout -b feature1 (to create branch)
+
+git branch -d feture2 (to delete branch)
+
+git branch (to check in which branch you are)
+
+git diff main (i am in feature1 and i want to check difference from feature1 and main)
+
+git merge main (merge both) or (make a PR (pull Request from github account))
+
+git pull origin main (we merge from github and want all data use pull)
