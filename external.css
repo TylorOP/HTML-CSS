@@ -1,0 +1,11 @@
+.subscribe-button {
+    background-color: rgb(156, 4, 4);
+    color: whitesmoke;
+    border: red;
+    height: 40px;
+    width: 140px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: large;
+    font-family: "Times New Roman", Times, serif;
+  }
