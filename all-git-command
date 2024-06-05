@@ -1,0 +1,13 @@
+git --version
+
+git config --global user.name "TylorOP"
+
+git config --global user.email "shubham.r.shivpure@gmail.com"
+
+git config --list
+
+git clone https://github.com/TylorOP/HTML-CSS.git
+
+ls
+
+ls -a. (hidden file check .git)
