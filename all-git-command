@@ -16,7 +16,7 @@ git init (to make repositary a git repositary ..run inside the directory)
 
 git status
 
-git add all-git-command (file name)
+git add filename (file name)
 
 git add . (to add all changes)
 
