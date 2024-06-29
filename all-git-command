@@ -8,6 +8,8 @@ git config --list
 
 git clone https://github.com/TylorOP/HTML-CSS.git
 
+cd filename
+
 ls
 
 ls -a. (hidden file & check .git)
